@@ -1,3 +1,3 @@
-alert("check")
-var name = "thuong";
+alert("check");
+var name = "Anh thuong ne";
 console.log(typeof name);
